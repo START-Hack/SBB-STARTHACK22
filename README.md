@@ -1,12 +1,12 @@
 # START Hack 2022 - SBB Case
 
 ### Case Introduction
-ZTravelers more and more want to take their bicycle on the train to discover
+Travelers more and more want to take their bicycle on the train to discover
 Switzerland. For self-service loading of bicycles SBB offers space on the train, which
 customer need to reserve upfront. On top of that at the weekend there is extra space
 available staffs helping travelers to load their bicycles in a separate wagon. But also
 with that extra capacity space can going to be scarce at days weather is supposed to
-become nice. However, if the weather is rainy or cold there are not so many staffs
+become nice. However, if the weather is rainy or cold spaces are not used and there are not so many staffs
 needed.
 
 Please give a short introduction to your case.
