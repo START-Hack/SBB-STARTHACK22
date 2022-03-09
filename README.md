@@ -1,6 +1,21 @@
 # START Hack 2022 - SBB Case
 
 ### Case Introduction
+-	Travelers more and more want to take their bicycle on the train to discover Switzerland. For self-service loading of bicycles SBB offers space on the train, which customer need to reserve upfront. On top of that at the weekend there is extra space available staffs helping travelers to load their bicycles in a separate wagon. But also with that extra capacity space can going to be scarce at days weather is supposed to become nice. Unfortunately customers can't see how many spaces are available. 
+However, if the weather is rainy or cold there are not so many staffs needed and the reservation does not has take place so early.
+
+Expected Final Product
+A prediction for the upcoming weekend at w time bicycle slots on the train are already fully booked. So customers can get the information of the latest timeslot they probably should book their reservation to get a free bicycle space depending on the train or trainline. Furthermore, internal staffing can be adjusted upfront depending on the predicted demand for bicycle transportation. 
+
+Who will help us to enable our customers to have a joyful ride at the weekend?
+
+Data: 
+- Rolling stock information
+-	Timetable information (including bicycle capacity)
+-	Weather data
+-	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour)
+
+
 Please give a short introduction to your case.
 What is the problem you are solving?
 What do you expect from the winning team?
