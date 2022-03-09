@@ -7,6 +7,7 @@ What do you expect from the winning team?
 Are you planning on further developing this project after the START Hack?
 
 ### Case Pitch
+)
 Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
@@ -25,10 +26,13 @@ You want the participants to spend as much time as possible focusing on the more
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
-List all available mentors here.
+Marc Guggenheimer, Marc.Guggenheimer@sbb.ch
+Christian Trachsel, christian.trachsel@sbb.ch
+Mahalia Stephan, mahalia.stephan@sbb.ch
+
 
 ### Time Slots at the Booth
-List the expected times of availability at the booth here.
+Wendsday 
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
