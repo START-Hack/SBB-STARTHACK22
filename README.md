@@ -10,11 +10,12 @@ A prediction for the upcoming weekend at w time bicycle slots on the train are a
 Who will help us to enable our customers to have a joyful ride at the weekend?
 
 Data: 
-- Rolling stock information
--	Timetable information (including bicycle capacity)
--	Weather data
--	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour)
-
+- anual formation - https://data.sbb.ch/explore/dataset/jahresformation/information/
+- amount of bikehooks - https://github.com/START-Hack/SBB-STARTHACK22/blob/main/rollmaterial-matching.xlsx
+-	Timetable search https://transport.opendata.ch / https://opentransportdata.swiss/en/dataset/ojp2020 (https://opentransportdata.swiss/de/cookbook/open-journey-planner-ojp)
+-	Weather data https://github.com/START-Hack/SBB-STARTHACK22/blob/main/weather.xlsx
+-	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour) 
+- Weather --> if you need other Weather Data, please meet us at the booth.
 
 Please give a short introduction to your case.
 What is the problem you are solving?
