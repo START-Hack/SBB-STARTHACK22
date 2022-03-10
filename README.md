@@ -9,13 +9,6 @@ A prediction for the upcoming weekend at w time bicycle slots on the train are a
 
 Who will help us to enable our customers to have a joyful ride at the weekend?
 
-Data: 
-- anual formation - https://data.sbb.ch/explore/dataset/jahresformation/information/
-- amount of bikehooks - https://github.com/START-Hack/SBB-STARTHACK22/blob/main/rollmaterial-matching.xlsx
--	Timetable search https://transport.opendata.ch / https://opentransportdata.swiss/en/dataset/ojp2020 (https://opentransportdata.swiss/de/cookbook/open-journey-planner-ojp)
--	Weather data https://github.com/START-Hack/SBB-STARTHACK22/blob/main/weather.xlsx
--	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour) 
-- Weather --> if you need other Weather Data, please meet us at the booth.
 
 Please give a short introduction to your case.
 What is the problem you are solving?
@@ -32,14 +25,25 @@ Insert materials from your Deep Dives here
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
 Give as much context as possible, in order to give your coders a head start!
+--> Videos
+company
 
 ### Resources
-List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
+- anual formation - https://data.sbb.ch/explore/dataset/jahresformation/information/
+- amount of bikehooks - https://github.com/START-Hack/SBB-STARTHACK22/blob/main/rollmaterial-matching.xlsx
+-	Timetable search https://transport.opendata.ch / https://opentransportdata.swiss/en/dataset/ojp2020 (https://opentransportdata.swiss/de/cookbook/open-journey-planner-ojp)
+-	Weather data https://github.com/START-Hack/SBB-STARTHACK22/blob/main/weather.xlsx
+-	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour) 
+- Weather --> if you need other Weather Data, please meet us at the booth.
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+For us, the most importent criteria are the following ones sorted by priority
+1. Traceability 
+2. Business Imapct 
+3. Feasibility 
+4. Originality/ Innovativ 
+5. Technical Originality (Technisch mehr als nur Konzept) 
+6. Präsentation  
 
 ### Point of Contact
 Marc Guggenheimer, Marc.Guggenheimer@sbb.ch
