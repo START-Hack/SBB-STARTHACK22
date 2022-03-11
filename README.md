@@ -26,6 +26,8 @@ Give as much context as possible, in order to give your coders a head start!
 Company Video: https://www.youtube.com/watch?v=EVpPJnm8-ek
 company 
 
+Information on how customers can take their bike on a train: https://www.sbb.ch/en/timetable/travel-advice/bicycles/take-your-bike-with-you.html?tracking-marketingurl=biketransport and more information: https://www.sbb.ch/en/help-and-contact/produkte-services/tickets/switzerland/bikes.html
+
 ### Resources
 - anual formation - https://data.sbb.ch/explore/dataset/jahresformation/information/
 - amount of bikehooks - https://github.com/START-Hack/SBB-STARTHACK22/blob/main/rollmaterial-matching.xlsx
