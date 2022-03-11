@@ -44,7 +44,7 @@ For us, the most importent criteria are the following ones sorted by priority
 6. Präsentation  
 
 ### Point of Contact
-Marc Guggenheim, marc.Guggenheim@sbb.ch
+Marc Guggenheim, marc.guggenheim@sbb.ch
 Christian Trachsel, christian.trachsel@sbb.ch
 Mahalia Stephan, mahalia.stephan@sbb.ch
 
