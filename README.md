@@ -36,7 +36,7 @@ Information on how customers can take their bike on a train: https://www.sbb.ch/
 -	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour) 
 - Weather --> if you need other Weather Data, please meet us at the booth.
 - Reservation data from 2019–2021: https://github.com/START-Hack/SBB-STARTHACK22/blob/main/reservation_data_2019-2021.zip
-- Reservation data from 2019–2021 incl. bike capacity:
+- Reservation data from 2019–2021 incl. bike capacity: https://github.com/START-Hack/SBB-STARTHACK22/blob/main/reservation_data_2019-2021_incl_capacity.zip
 
 ### Judging Criteria
 For us, the most importent criteria are the following ones sorted by priority
