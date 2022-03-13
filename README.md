@@ -1,7 +1,18 @@
 # START Hack 2022 - SBB Case
 
 ### Case Introduction
-More and more travelers want to take their bicycle on the train to discover Switzerland. For self-service loading of bicycles SBB offers space on the train, which customer need to reserve upfront. On top of that at the weekend there is extra space available staffs helping travelers to load their bicycles in a separate wagon. But also with that extra capacity space can going to be scarce at days weather is supposed to become nice. Unfortunately customers can't see how many spaces are available. 
+More and more travelers want to take their bicycle on the train to discover Switzerland. For self-service loading of bicycles SBB offers space on the train, which customer need to reserve upfront bewteen march – october for many IC lines
+On average there are 12 available bycicle spaces per train. At busy times like on weekends, when the weather is warm and sunny, we offer up to 40 spaces per train. Whenever we need extra stock, staff need to load the bycicles on an extra wagon.
+Unfortunately our customers can’t see how many spaces are available and need to try each single reservation to get to know if they can catch this connection with their bike.
+Because it costs just 2 francs, people tend to book several reservations in a row to stay flexible for their way back home. But because they just need one space, the other reservations block free spaces no one shows up and other people cant book their reservation to get home. 
+They know better at what time they wanna leave in the morning to start the trip, but here they don’t know the weather prognose if they even want to do their trip on the weekend per bike. So they tend to wait as long as possible to make sure they wanna go. 
+Let me show you this little demo to put you into our customers shoes.
+Here you can see for this train you need to buy a reservation.
+But you don’t know if there are still spaces available.
+So you try to buy a bicycle reservation under tickets and, yes, you can buy, lucky one.
+If no spaces available anymore you just get a hint and the process stops. 
+If your connection one hour later maybe still has free spaces, you need to try separately for every connection.
+On top of that at the weekend there is extra space available staffs helping travelers to load their bicycles in a separate wagon. But also with that extra capacity space can going to be scarce at days weather is supposed to become nice. Unfortunately customers can't see how many spaces are available. 
 However, if the weather is rainy or cold there are not so many staffs needed and the reservation does not has take place so early.
 
 Expected Final Product
@@ -11,6 +22,9 @@ The best solution is supposed to be published at our website https://www.sbb.ch/
 
 
 Who will help us to enable our customers to have a joyful ride at the weekend?
+
+
+
 
 
 ### Case Pitch
