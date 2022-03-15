@@ -26,7 +26,8 @@ The best solution is supposed to be published at our website https://www.sbb.ch/
 Who will help us to enable our customers to have a joyful ride at the weekend?
 
 ### Case Pitch
-)
+https://api.video.swisstxt.ch/html5/html5lib/v2.80/mwEmbedFrame.php/p/131/uiconf_id/23476493/entry_id/0_bx360554?wid=_131&iframeembed=true&playerId=kaltura_player&entry_id=0_bx360554
+
 Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
@@ -35,8 +36,8 @@ Insert materials from your Deep Dives here
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
 Give as much context as possible, in order to give your coders a head start!
-Company Video: https://www.youtube.com/watch?v=EVpPJnm8-ek
-company 
+SBB Company Video: https://www.youtube.com/watch?v=EVpPJnm8-ek
+SBB pioneers: https://api.video.swisstxt.ch/html5/html5lib/v2.80/mwEmbedFrame.php/p/131/uiconf_id/23476493/entry_id/0_83a1y3s7?wid=_131&iframeembed=true&playerId=kaltura_player&entry_id=0_83a1y3s7
 
 Information on how customers can take their bike on a train: https://www.sbb.ch/en/timetable/travel-advice/bicycles/take-your-bike-with-you.html?tracking-marketingurl=biketransport and more information: https://www.sbb.ch/en/help-and-contact/produkte-services/tickets/switzerland/bikes.html
 
@@ -60,13 +61,20 @@ For us, the most importent criteria are the following ones sorted by priority
 6. Präsentation  
 
 ### Point of Contact
-Marc Guggenheim, marc.guggenheim@sbb.ch
-Christian Trachsel, christian.trachsel@sbb.ch
-Mahalia Stephan, mahalia.stephan@sbb.ch
+Mentors
+Marc Guggenheim, marc.guggenheim@sbb.ch, Phone +41 76 500 97 37 (available Wednesday on site, thursday by phone, friday on site)
+Christian Trachsel, christian.trachsel@sbb.ch, (available wednesday, thursday and friday on site)
+Mahalia Stephan, mahalia.stephan@sbb.ch, +41 79 449 52 32 (available wednesday on site, thursday by phone, friday on site)
+Janany Nadarasa, janany.nadarasa@sbb.ch (available wednesday on site, thursday on site)
+
+HR
+Julie Brunner, julie.brunner@sbb.ch
+Nina Frei, nina.frei@sbb.ch
 
 
 ### Time Slots at the Booth
-Wendsday 
+HR is on Wednesday available.
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
+![image](https://user-images.githubusercontent.com/101132509/158331979-bd3f17f3-629f-4f06-821d-9f926cc4df0a.png)
