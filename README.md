@@ -1,12 +1,12 @@
 # START Hack 2022 - SBB Case
 
 ### Case Introduction
-More and more travelers want to take their bicycle on the train to discover Switzerland. For self-service loading of bicycles SBB offers space on the train, which customer need to reserve upfront bewteen march – october for many IC lines.
-On average there are 12 available bycicle spaces per train. At busy times like weekends, when the weather is warm and sunny, we offer up to 40 spaces per train. 
-Whenever we need extra spaces, staff need to load the bycicles on an extra wagon.
+More and more travelers want to take their bicycle on the train to discover Switzerland. For self-service loading of bicycles SBB offers space on the train, which customer need to reserve between march – october for many IC lines upfront.
+On average there are 12 bycicle spaces per train available. At busy times like weekends, when the weather is warm and sunny, we offer up to 40 spaces per train. 
+Whenever extra spaces are required, staff need to load the bycicles on an extra wagon.
 Unfortunately our customers can’t see how many spaces are available, so they need to try each single reservation to get to know if they can catch this connection with their bike.
-Because it costs just 2 francs, people tend to book several reservations in a row to stay flexible for their way back home. But because they just need one space, those other reservations block free spaces no one shows up and other people cant book their reservation to get home. 
-Happily our customers know better at what time they wanna leave in the morning to start the trip. But they can't book their reservation to early, because they don’t know the weather prognose for the weekend pretty sure. So they tend to wait as long as possible to make sure they wanna go for a bike trip on the weekend. 
+Because it costs just 2 francs, people tend to book several reservations in a row to stay flexible for their way back home. But in fact, they just need one space and those other reservations block free spaces other people can't book to get home. 
+Happily our customers know better at what time they wanna leave in the morning to start the trip. But they can't book their reservation to early, because they don’t know the weather for the weekend many days upfront. So they tend to wait as long as possible to make sure they wanna go for a bike trip on the weekend. 
 To put you in our customers shoes we provide a little demo of the reservation procedure you find in our Deep Dive presentation. 
 If no spaces available anymore, you just get a hint and the process stops without any references to other connections which maybe still have free spaces.
 
