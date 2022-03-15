@@ -2,32 +2,26 @@
 
 ### Case Introduction
 More and more travelers want to take their bicycle on the train to discover Switzerland. For self-service loading of bicycles SBB offers space on the train, which customer need to reserve between march – october for many IC lines upfront.
-On average there are 12 bycicle spaces per train available. At busy times like weekends, when the weather is warm and sunny, we offer up to 40 spaces per train. 
-Whenever extra spaces are required, staff need to load the bycicles on an extra wagon.
-Unfortunately our customers can’t see how many spaces are available, so they need to try each single reservation to get to know if they can catch this connection with their bike.
+On average there are 12 bicycle spaces per train available. At busy times like weekends, when the weather is warm and sunny, we offer up to 40 spaces per train. 
+Whenever extra spaces are required, staff need to load the bicycles on an extra wagon.
+Unfortunately, our customers can’t see how many spaces are available, so they need to try each single reservation to get to know if they can catch this connection with their bike.
 Because it costs just 2 francs, people tend to book several reservations in a row to stay flexible for their way back home. But in fact, they just need one space and those other reservations block free spaces other people can't book to get home. 
-Happily our customers know better at what time they wanna leave in the morning to start the trip. But they can't book their reservation to early, because they don’t know the weather for the weekend many days upfront. So they tend to wait as long as possible to make sure they wanna go for a bike trip on the weekend. 
-To put you in our customers shoes we provide a little demo of the reservation procedure you find in our Deep Dive presentation. 
+Happily, our customers know better at what time they wanna leave in the morning to start the trip. But they can't book their reservation to early, because they don’t know the weather for the weekend many days upfront. So they tend to wait as long as possible to make sure they wanna go for a bike trip on the weekend. 
+To put you in our customers shoes we provide a little demo of the reservation procedure you find here: https://github.com/START-Hack/SBB-STARTHACK22/blob/41f346e1d60576385a49629649f79e206543955e/Demo_bicycle_reservation.mp4 
 If no spaces available anymore, you just get a hint and the process stops without any references to other connections which maybe still have free spaces.
 
 
 We are looking for an analytics based solution to forecast the latest moment when our customers probably can book their bike reservation. 
-It is important, that the solution is independent from our app solution, because our backend reservation system is going to be replaced soon.
+It is important, that the solution is independent from our app, because our backend reservation system is going to be replaced soon.
 The winners prognose is going to be published on our website: www.sbb.ch/en/biketransport
 With that prognose you help us to reduce no-shows and bring people back home.
 Furthermore, if we can present our customers an overview of probably availabilities, they can see that later connections maybe still can be booked and so the curve of demand can be flattened.
-On top of that, we can adjust our internal staffing upfront depending on the predicted demand for bicycle transportation to decide on tuesday how many people are needed for the weekend.
-
-A prediction at what time bicycle slots on the train are already fully booked. So customers can get the information of the latest timeslot they probably should book their reservation to get a free bicycle space depending on the train or trainline. F
-Because we are going to rebuild the backend of our reservation system soon, we need an App-independet solution.
-The best solution is supposed to be published at our website https://www.sbb.ch/en/timetable/travel-advice/bicycles/take-your-bike-with-you.html?tracking-marketingurl=biketransport
+On top of that, we can adjust our internal staffing upfront depending on the predicted demand for bicycle transportation to decide on Tuesday how many people are needed for the weekend.
 
 Who will help us to enable our customers to have a joyful ride at the weekend?
 
 ### Case Pitch
 https://api.video.swisstxt.ch/html5/html5lib/v2.80/mwEmbedFrame.php/p/131/uiconf_id/23476493/entry_id/0_bx360554?wid=_131&iframeembed=true&playerId=kaltura_player&entry_id=0_bx360554
-
-Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
 https://github.com/START-Hack/SBB-STARTHACK22/blob/cdd49b13182a3724b5d02d3b2e4ae031c5ec2770/StartHACK_Deep%20Dive_Long.pdf
