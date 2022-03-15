@@ -31,7 +31,7 @@ https://api.video.swisstxt.ch/html5/html5lib/v2.80/mwEmbedFrame.php/p/131/uiconf
 Insert your Pitch Video or Slides here
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+https://github.com/START-Hack/SBB-STARTHACK22/blob/cdd49b13182a3724b5d02d3b2e4ae031c5ec2770/StartHACK_Deep%20Dive_Long.pdf
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
