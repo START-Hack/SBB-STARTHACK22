@@ -11,9 +11,8 @@ To put you in our customers shoes we provide a little demo of the reservation pr
 If no spaces available anymore, you just get a hint and the process stops without any references to other connections which maybe still have free spaces.
 
 
-Expected Final Product.
 We are looking for an analytics based solution to forecast the latest moment when our customers probably can book their bike reservation. 
-Because our backend reservation system is going to be replaced soon, it is important, that the solution is independent from our app solution.
+It is important, that the solution is independent from our app solution, because our backend reservation system is going to be replaced soon.
 The winners prognose is going to be published on our website: www.sbb.ch/en/biketransport
 With that prognose you help us to reduce no-shows and bring people back home.
 Furthermore, if we can present our customers an overview of probably availabilities, they can see that later connections maybe still can be booked and so the curve of demand can be flattened.
