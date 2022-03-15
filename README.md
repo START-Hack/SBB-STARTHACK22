@@ -77,4 +77,5 @@ HR is on Wednesday available.
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
+Blachen bags SBB 
 ![image](https://user-images.githubusercontent.com/101132509/158331979-bd3f17f3-629f-4f06-821d-9f926cc4df0a.png)
