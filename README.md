@@ -47,7 +47,7 @@ Information on how customers can take their bike on a train: https://www.sbb.ch/
 ### Judging Criteria
 For us, the most importent criteria are the following ones sorted by priority
 1. Traceability 
-2. Business Imapct 
+2. Business Impact 
 3. Feasibility 
 4. Originality/ Innovativ 
 5. Technical Originality (Technisch mehr als nur Konzept) 
