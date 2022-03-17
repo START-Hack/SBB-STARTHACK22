@@ -48,13 +48,6 @@ Information on how customers can take their bike on a train: https://www.sbb.ch/
 For us, the most importent criteria are the following ones sorted by priority
 ![image](https://user-images.githubusercontent.com/101132509/158769748-2087032d-104f-40ca-8623-9e9af4685cbf.png)
 
-1. Traceability 
-2. Business Impact 
-3. Feasibility 
-4. Originality/ Innovativ 
-5. Technical Originality (Technisch mehr als nur Konzept) 
-6. Präsentation  
-
 ### Point of Contact
 Mentors
 Marc Guggenheim, marc.guggenheim@sbb.ch, Phone +41 76 500 97 37 (available Wednesday on site, thursday by phone, friday on site)
