@@ -46,6 +46,8 @@ Information on how customers can take their bike on a train: https://www.sbb.ch/
 
 ### Judging Criteria
 For us, the most importent criteria are the following ones sorted by priority
+![image](https://user-images.githubusercontent.com/101132509/158769748-2087032d-104f-40ca-8623-9e9af4685cbf.png)
+
 1. Traceability 
 2. Business Impact 
 3. Feasibility 
