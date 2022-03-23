@@ -55,7 +55,7 @@ Reservation without capacity
 Reservation with capacity
 | res\_id        | res\_dt          | date             | train\_nr     | line       | reserved              | capacity              | bp\_from          | bp\_to          | dep\_ist              | dep\_soll             | arr\_ist            | arr\_soll           | res\_delta\_ist | res\_delta\_soll | res\_delta\_valid |
 | -------------- | ---------------- | ---------------- | ------------- | ---------- | --------------------- | --------------------- | ----------------- | --------------- | --------------------- | --------------------- | ------------------- | ------------------- | --------------- | ---------------- | ----------------- |
-| Reservation ID | Reservation Date | please ignore    | Train nummber | Train name | Number of reservation | capacity in the train | Start of the trip | End of the trip | departure time actual | departure time planed | arrival time actual | arrival time plande | please ignore   | please ignore    | please ignore     |
+| Reservation ID | Reservation Date | day  of Travel    | Train nummber | Train name | Number of reservation | capacity in the train | Start of the trip | End of the trip | departure time actual | departure time planed | arrival time actual | arrival time plande | please ignore   | please ignore    | please ignore     |
 | 0              | 29.03.2019 00:00 | 01.04.2019 00:00 | 510           | IC 5       | 1                     |                       | ZUE               | NE              | 01.04.2019 07:04      | 01.04.2019 07:03      | 01.04.2019 08:33    | 01.04.2019 08:32    | 284667          | 284634           | False             |
 
 ### Judging Criteria
