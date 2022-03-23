@@ -45,6 +45,12 @@ Information on how customers can take their bike on a train: https://www.sbb.ch/
 - Reservation data from 2019–2021 incl. bike capacity: https://github.com/START-Hack/SBB-STARTHACK22/blob/main/reservation_data_2019-2021_incl_capacity.zip
 - Corporate Design of sbb: https://digital.sbb.ch
 
+### CSV Explanation
+Reservation without capacity
+| res\_id        | res\_dt          | einst\_zug                                                                            | reisetag      | dl   | wagen        | wty           | abt\_char     | verweis       | gr\_kkat     | platz              | anz\_reisende   | einstieg                 | ausstieg           | tarif                      | pruefzahl     | buch\_tag                                  | ann\_tag      | term\_buch    | term\_ann                   | dlt                 | klasse      | zug        | linie | strecke |
+| -------------- | ---------------- | ------------------------------------------------------------------------------------- | ------------- | ---- | ------------ | ------------- | ------------- | ------------- | ------------ | ------------------ | --------------- | ------------------------ | ------------------ | -------------------------- | ------------- | ------------------------------------------ | ------------- | ------------- | --------------------------- | ------------------- | ----------- | ---------- | ----- | ------- |
+| reservation ID | Reservation Date | Train on which the reservation is (very technical, ignore everthing behind the point) | Day of Travel | ???? | Coach Number | type of Coach | please ignore | please ignore | please ignre | Place in the coach | amount of bikes | Beginning of reservation | End of reservatoin | price info (please ignore) | please ignore | Date of reservation (redudant to column C) | please ignore | please ignore | please ignore please ignore | Type of reservation | Trainnumber | Train Name | Line  |
+
 ### Judging Criteria
 For us, the most importent criteria are the following ones sorted by priority
 ![image](https://user-images.githubusercontent.com/101132509/158769748-2087032d-104f-40ca-8623-9e9af4685cbf.png)
