@@ -39,7 +39,6 @@ Information on how customers can take their bike on a train: https://www.sbb.ch/
 - amount of bikehooks - https://github.com/START-Hack/SBB-STARTHACK22/blob/main/rollmaterial-matching.xlsx
 -	Timetable search https://transport.opendata.ch / https://opentransportdata.swiss/en/dataset/ojp2020 (https://opentransportdata.swiss/de/cookbook/open-journey-planner-ojp)
 -	Weather data https://github.com/START-Hack/SBB-STARTHACK22/blob/main/weather.xlsx
--	Historical reservation data from 2021 (Number of reservations per train, total capacity, time of booking date/hour) 
 - Weather --> if you need other Weather Data, please meet us at the booth.
 - Reservation data from 2019–2021: https://github.com/START-Hack/SBB-STARTHACK22/blob/main/reservation_data_2019-2021.zip
 - Reservation data from 2019–2021 incl. bike capacity: https://github.com/START-Hack/SBB-STARTHACK22/blob/main/reservation_data_2019-2021_incl_capacity.zip
@@ -55,8 +54,10 @@ Reservation without capacity
 Reservation with capacity
 | res\_id        | res\_dt          | date             | train\_nr     | line       | reserved              | capacity              | bp\_from          | bp\_to          | dep\_ist              | dep\_soll             | arr\_ist            | arr\_soll           | res\_delta\_ist | res\_delta\_soll | res\_delta\_valid |
 | -------------- | ---------------- | ---------------- | ------------- | ---------- | --------------------- | --------------------- | ----------------- | --------------- | --------------------- | --------------------- | ------------------- | ------------------- | --------------- | ---------------- | ----------------- |
-| Reservation ID | Reservation Date | day  of Travel    | Train nummber | Train name | Number of reservation | capacity in the train | Start of the trip | End of the trip | departure time actual | departure time planed | arrival time actual | arrival time plande | please ignore   | please ignore    | please ignore     |
+| Reservation ID | Reservation Date | day  of Travel    | Train nummber | Train name | Number of reservation | capacity in the train | Start of the trip - see below | End of the trip - see below| departure time actual | departure time planed | arrival time actual | arrival time plande | please ignore   | please ignore    | please ignore     |
 | 0              | 29.03.2019 00:00 | 01.04.2019 00:00 | 510           | IC 5       | 1                     |                       | ZUE               | NE              | 01.04.2019 07:04      | 01.04.2019 07:03      | 01.04.2019 08:33    | 01.04.2019 08:32    | 284667          | 284634           | False             |
+
+the abbrevation can be resolved with https://data.sbb.ch/explore/dataset/dienststellen-gemass-opentransportdataswiss/table/?q=abkuerzung%3DZUE --> Get the Information for ZUE
 
 ### Judging Criteria
 For us, the most importent criteria are the following ones sorted by priority
